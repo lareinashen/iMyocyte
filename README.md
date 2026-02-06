@@ -4,7 +4,7 @@ A React-based interactive application for visualizing and simulating cardiomyocy
 
 ## Overview
 
-iMyocyte is a web application built with React, TypeScript, and Vite that provides an interactive interface for exploring myocyte properties and signal propagation patterns. The application features multiple visualization modes including ring diagrams, neighbor modes, and location-based views.
+iMyocyte is a web application built with React, TypeScript, and Vite that provides an interactive interface for exploring cardiomyocyte properties and signal propagation patterns. The application features multiple visualization modes including ring diagrams, neighbor modes, and location-based views.
 
 ## Features
 
