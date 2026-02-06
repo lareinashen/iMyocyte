@@ -1,6 +1,6 @@
 # iMyocyte
 
-A React-based interactive application for visualizing and simulating myocyte (cardiac muscle cell) behavior and signal propagation.
+A React-based interactive application for visualizing and simulating cardiomyocyte behavior and signal propagation.
 
 ## Overview
 
