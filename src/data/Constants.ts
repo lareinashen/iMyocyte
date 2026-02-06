@@ -17,7 +17,7 @@ export const CHANNEL_ENTER = "enter"
 // Event name when a cell leaves/exits the channel
 export const CHANNEL_LEAVE = "leave"
 
-// Main channel name for cell communication (CA = Cellular Automata)
+// Main channel name for cell communication (CA = Cellular Automaton)
 export const CHANNEL_NAME = "CA"
 
 // Ably API key for real-time messaging service
