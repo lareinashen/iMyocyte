@@ -54,6 +54,22 @@ iMyocyte is a web application built with React, TypeScript, and Vite that provid
    npm install
    ```
 
+3. Set up Ably API Key:
+   - Create a free account at [https://ably.com](https://ably.com)
+   - Navigate to your dashboard and create a new app (or use an existing one)
+   - Copy your API key from the "API Keys" tab
+   - Open `src/data/Constants.ts` in your project
+   - Replace `'***'` in the `ABLY_API_KEY` constant with your actual API key:
+     ```typescript
+     export const ABLY_API_KEY = 'your-actual-api-key-here';
+     ```
+
+4. Run the development server:
+   ```bash
+   npm run dev
+   ```
+   Open [http://localhost:5173](http://localhost:5173) to view the application in your browser.
+
 ## Available Scripts
 
 ### Development
@@ -122,7 +138,7 @@ iMyocyte/
 
 ## Configuration
 
-The application uses Ably for real-time communication. Make sure to configure your Ably credentials if needed.
+The application uses Ably for real-time communication. See step 3 in the Installation section above for instructions on setting up your Ably API key.
 
 ## Contributing
 
