@@ -175,20 +175,14 @@ simply open the session URL in any modern browser (phone, tablet, or laptop)
 
 ### Running a live session
 
-1. **Join as the ring leader.** The leader joins the session URL first
-   and selects **Neighbour Ring Mode**.
-2. **Have students join.** Students navigate to the same URL. As each
-   student joins, they appear in the leader's visible list of available
-   participants.
-3. **Build the ring.** From the leader's UI, select participants one at
-   a time to add them to the ring. A minimum of 6 cells is required so
+1. **Have students join.** Students navigate to the same URL. As each
+   student joins, they appear in each other's list of
+   participants. 
+3. **Build the ring.** Designate a student (or yourself!) as the leader, who
+   must select participants one at a time to add them to the ring.
+   A minimum of 6 cells is required so
    that the circuit time exceeds the refractory period — this is what
    allows reentry to occur.
-4. **Designate the unhealthy cell.** By default, the cell positioned
-   next to the leader in the ring is designated as the unhealthy cell.
-   The leader can also explicitly select a different cell to be
-   unhealthy. The unhealthy cell is the substrate for unidirectional
-   block and is required for the reentry demonstration.
 5. **Adjust session parameters (optional).** Before or during the
    demonstration, the leader can toggle:
    - **Exercise level** (Rest / Light / Moderate / Vigorous) — modulates
@@ -196,13 +190,14 @@ simply open the session URL in any modern browser (phone, tablet, or laptop)
    - **Sympathetic activation** (on/off) — applies a uniform shift to
      propagation delay and refractory period.
    - **Cell health status** — toggle a specific cell between healthy
-     and unhealthy.
-6. **Fire the initial stimulus.** The leader triggers the first
+     and unhealthy. By default, the cell positioned
+   next to the leader in the ring would be designated as the unhealthy cell.
+7. **Fire the initial stimulus.** The leader triggers the first
    activation (S1), which launches a bidirectional wavefront around the
    ring. In a healthy ring, waves collide and self-terminate. In a ring
    with an unhealthy cell, a timed second stimulus (S2) can trigger
    unidirectional block and initiate sustained reentry.
-7. **Explore parameter effects.** Once participants understand the
+8. **Explore parameter effects.** Once participants understand the
    baseline behaviour, vary exercise level, sympathetic activation, or
    the location of the unhealthy cell to demonstrate how these factors
    shift whether the wave self-terminates or sustains.
