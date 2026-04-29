@@ -277,7 +277,7 @@ accompanying manuscript (Shen et al., *The Biophysicist*).
 
 ## License
 
-This project is private and not currently licensed for public use.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Deployment
 
